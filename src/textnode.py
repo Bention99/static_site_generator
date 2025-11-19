@@ -1,4 +1,4 @@
-from htmlnode import LeafNode
+from src.htmlnode import LeafNode
 from enum import Enum
 
 

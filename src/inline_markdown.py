@@ -1,5 +1,5 @@
 import re
-from src.textnode import TextNode, TextType
+from textnode import TextNode, TextType
 
 
 def text_to_textnodes(text):

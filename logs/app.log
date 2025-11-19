@@ -1,0 +1,90 @@
+2025-11-19 14:34:10,112 - INFO - Directory 'public' missing - creating it now.
+2025-11-19 14:34:10,112 - INFO - Directory 'public' created.
+2025-11-19 14:39:21,385 - INFO - Directory 'public' deleted.
+2025-11-19 14:39:21,385 - INFO - Directory 'public' created.
+2025-11-19 14:44:34,929 - INFO - Directory 'public' deleted.
+2025-11-19 14:44:34,929 - INFO - Directory 'public' created successfully.
+2025-11-19 15:14:11,317 - INFO - Directory 'public' deleted.
+2025-11-19 15:14:11,317 - INFO - Directory 'public' created successfully.
+2025-11-19 15:14:37,818 - INFO - Directory 'public' deleted.
+2025-11-19 15:14:37,818 - INFO - Directory 'public' created successfully.
+2025-11-19 15:18:15,495 - INFO - Directory 'public' deleted.
+2025-11-19 15:18:15,495 - INFO - Directory 'public' created successfully.
+2025-11-19 15:18:23,910 - INFO - Directory 'public' deleted.
+2025-11-19 15:18:23,911 - INFO - Directory 'public' created successfully.
+2025-11-19 15:30:40,856 - INFO - Directory 'public' deleted.
+2025-11-19 15:30:40,856 - INFO - Directory 'public' created successfully.
+2025-11-19 15:31:09,597 - INFO - Directory 'public' deleted.
+2025-11-19 15:31:09,597 - INFO - Directory 'public' created successfully.
+2025-11-19 15:31:29,524 - INFO - Directory 'public' deleted.
+2025-11-19 15:31:29,524 - INFO - Directory 'public' created successfully.
+2025-11-19 15:31:37,602 - INFO - Directory 'public' deleted.
+2025-11-19 15:31:37,602 - INFO - Directory 'public' created successfully.
+2025-11-19 15:42:37,784 - INFO - Directory 'public' deleted.
+2025-11-19 15:42:37,784 - INFO - Directory 'public' created successfully.
+2025-11-19 15:46:41,794 - INFO - Directory 'public' deleted.
+2025-11-19 15:46:41,795 - INFO - Directory 'public' created successfully.
+2025-11-19 15:46:41,795 - INFO - Direcotry public/images created.
+2025-11-19 15:53:45,805 - INFO - Directory 'public' deleted.
+2025-11-19 15:53:45,805 - INFO - Directory 'public' created successfully.
+2025-11-19 15:53:45,805 - INFO - Direcotry public/images created.
+2025-11-19 16:04:24,892 - INFO - Directory 'public' deleted.
+2025-11-19 16:04:24,892 - INFO - Directory 'public' created successfully.
+2025-11-19 16:04:24,892 - INFO - Direcotry public/images copied successfully.
+2025-11-19 16:04:24,894 - INFO - File public/images/tolkien.png:Zone.Identifier copied successfully.
+2025-11-19 16:04:24,895 - INFO - File public/images/tolkien.png copied successfully.
+2025-11-19 16:04:24,896 - INFO - File public/index.css copied successfully.
+2025-11-19 16:05:48,633 - INFO - Directory 'public' deleted.
+2025-11-19 16:05:48,634 - INFO - Directory 'public' created successfully.
+2025-11-19 16:05:48,634 - INFO - Direcotry public/images copied successfully.
+2025-11-19 16:05:48,634 - INFO - File public/images/tolkien.png:Zone.Identifier copied successfully.
+2025-11-19 16:05:48,634 - INFO - File public/images/tolkien.png copied successfully.
+2025-11-19 16:05:48,634 - INFO - File public/index.css copied successfully.
+2025-11-19 16:08:43,913 - INFO - Directory 'public' deleted.
+2025-11-19 16:08:43,913 - INFO - Directory 'public' created successfully.
+2025-11-19 16:08:43,913 - INFO - Ensured directory exists: public/images
+2025-11-19 16:08:43,913 - INFO - File public/images/tolkien.png:Zone.Identifier copied successfully.
+2025-11-19 16:08:43,913 - INFO - File public/images/tolkien.png copied successfully.
+2025-11-19 16:08:43,913 - INFO - File public/index.css copied successfully.
+2025-11-19 16:09:23,242 - INFO - Directory 'public' deleted.
+2025-11-19 16:09:23,242 - INFO - Directory 'public' created successfully.
+2025-11-19 16:09:23,242 - INFO - Ensured directory exists: public/images
+2025-11-19 16:09:23,242 - INFO - File 'public/images/tolkien.png:Zone.Identifier' copied successfully.
+2025-11-19 16:09:23,243 - INFO - File 'public/images/tolkien.png' copied successfully.
+2025-11-19 16:09:23,243 - INFO - File 'public/index.css' copied successfully.
+2025-11-19 16:10:39,542 - INFO - Directory 'public' deleted.
+2025-11-19 16:10:39,542 - INFO - Directory 'public' created successfully.
+2025-11-19 16:10:39,542 - INFO - Ensured directory exists: public/images
+2025-11-19 16:10:39,543 - INFO - File 'images/tolkien.png:Zone.Identifier' copied successfully to '/home/benoi/workspace/github.com/benoit/static_site_generator/static/images/tolkien.png:Zone.Identifier'
+2025-11-19 16:10:39,543 - INFO - File 'images/tolkien.png' copied successfully to '/home/benoi/workspace/github.com/benoit/static_site_generator/static/images/tolkien.png'
+2025-11-19 16:10:39,543 - INFO - File 'index.css' copied successfully to '/home/benoi/workspace/github.com/benoit/static_site_generator/static/index.css'
+2025-11-19 16:10:51,181 - INFO - Directory 'public' deleted.
+2025-11-19 16:10:51,181 - INFO - Directory 'public' created successfully.
+2025-11-19 16:10:51,181 - INFO - Ensured directory exists: public/images
+2025-11-19 16:10:51,182 - INFO - File 'images/tolkien.png:Zone.Identifier' copied successfully to 'public/images/tolkien.png:Zone.Identifier'
+2025-11-19 16:10:51,182 - INFO - File 'images/tolkien.png' copied successfully to 'public/images/tolkien.png'
+2025-11-19 16:10:51,182 - INFO - File 'index.css' copied successfully to 'public/index.css'
+2025-11-19 16:10:55,616 - INFO - Directory 'public' deleted.
+2025-11-19 16:10:55,616 - INFO - Directory 'public' created successfully.
+2025-11-19 16:10:55,616 - INFO - Ensured directory exists: public/images
+2025-11-19 16:10:55,616 - INFO - File 'images/tolkien.png:Zone.Identifier' copied successfully to 'public/images/tolkien.png:Zone.Identifier'
+2025-11-19 16:10:55,616 - INFO - File 'images/tolkien.png' copied successfully to 'public/images/tolkien.png'
+2025-11-19 16:10:55,616 - INFO - File 'index.css' copied successfully to 'public/index.css'
+2025-11-19 16:13:00,714 - INFO - Directory 'public' deleted.
+2025-11-19 16:13:00,714 - INFO - Directory 'public' created successfully.
+2025-11-19 16:13:00,714 - INFO - Ensured directory exists: public/images
+2025-11-19 16:13:00,714 - INFO - File 'images/tolkien.png:Zone.Identifier' copied successfully to 'public/images/tolkien.png:Zone.Identifier'
+2025-11-19 16:13:00,714 - INFO - File 'images/tolkien.png' copied successfully to 'public/images/tolkien.png'
+2025-11-19 16:13:00,715 - INFO - File 'index.css' copied successfully to 'public/index.css'
+2025-11-19 16:13:41,611 - INFO - Directory 'public' deleted.
+2025-11-19 16:13:41,611 - INFO - Directory 'public' created successfully.
+2025-11-19 16:13:41,611 - INFO - Ensured directory exists: public/images
+2025-11-19 16:13:41,611 - INFO - File 'images/tolkien.png:Zone.Identifier' copied successfully to 'public/images/tolkien.png:Zone.Identifier'
+2025-11-19 16:13:41,611 - INFO - File 'images/tolkien.png' copied successfully to 'public/images/tolkien.png'
+2025-11-19 16:13:41,612 - INFO - File 'index.css' copied successfully to 'public/index.css'
+2025-11-19 16:14:02,728 - INFO - Directory 'public' deleted.
+2025-11-19 16:14:02,729 - INFO - Directory 'public' created successfully.
+2025-11-19 16:14:02,729 - INFO - Ensured directory exists: public/images
+2025-11-19 16:14:02,729 - INFO - File 'images/tolkien.png:Zone.Identifier' copied successfully to 'public/images/tolkien.png:Zone.Identifier'
+2025-11-19 16:14:02,729 - INFO - File 'images/tolkien.png' copied successfully to 'public/images/tolkien.png'
+2025-11-19 16:14:02,729 - INFO - File 'index.css' copied successfully to 'public/index.css'

@@ -1,4 +1,4 @@
-import os
+'''import os
 import logging
 import shutil
 import re
@@ -81,3 +81,4 @@ def copy_file(abs_path):
 
 if __name__ == "__main__":
     main()
+'''
